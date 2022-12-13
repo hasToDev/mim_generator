@@ -2,8 +2,7 @@
 
 A Mim Generator for AlgoStudio.
 
-<img src="https://user-images.githubusercontent.com/44645201/207417715-f2df6345-60a2-40c9-8eac-d98a84c6d65a.jpg" width="300" /> &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/44645201/207417822-a864dcbc-e70d-4a31-86ba-15cbd7f5f60f.jpg" width="300" /> 
-
+<img src="https://user-images.githubusercontent.com/44645201/207417715-f2df6345-60a2-40c9-8eac-d98a84c6d65a.jpg" width="260" /> &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/44645201/207417822-a864dcbc-e70d-4a31-86ba-15cbd7f5f60f.jpg" width="260" /> &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/44645201/207422741-cc6a2ee8-2f10-4505-863d-1dc6b210aa45.jpg" width="260" /> 
 
 ## Getting Started
 
